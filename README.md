@@ -1,5 +1,5 @@
 # taks-boxing-academy
-Simple Landing Page Using HTML &amp; CSS
+Simple Landing Page Using HTML &amp; CSS (Non-Responsive)
 
 
 Tak's Coaching Boxing Academy 
